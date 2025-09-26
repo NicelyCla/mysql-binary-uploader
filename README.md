@@ -6,7 +6,7 @@ This repository contains two Python scripts for uploading large binary files to 
 
 ## 1. `mysql_blob_uploader.py`
 
-The main script for uploading and reconstructing large binary files (tested up to 1.7 GB).
+The main script for uploading and reconstructing large binary files (tested up to 1.7 GB), optimized for faster performance.
 
 ### Features
 - Uploads binary files in chunks directly into a MySQL table.
